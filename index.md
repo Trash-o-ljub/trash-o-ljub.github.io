@@ -17,5 +17,5 @@ Music<br>
 ---
 [My art webpage](drek.neocities.org)
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Bliss_location%2C_Sonoma_Valley_in_2006.jpg"/>
-drek.neocities.org
+drek.neocities.org<br>
 ---
