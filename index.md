@@ -8,7 +8,7 @@
 [Reflections](https://imt-rexx.itch.io/reflections)<br>
 <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png"/>
 Art direction<br>
-storyboard<br>
+Storyboard<br>
 
 ---
 
