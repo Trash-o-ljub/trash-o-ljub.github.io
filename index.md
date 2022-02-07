@@ -1,7 +1,7 @@
 <h2 style="color:HotPink">Portfolio</h2>
 ---
 
-### Projects done at Unity education 
+<h3 style="color:HotPink">Projects done at Unity education</h3>
 ---
 
 [Reflections](https://imt-rexx.itch.io/reflections)<br>
