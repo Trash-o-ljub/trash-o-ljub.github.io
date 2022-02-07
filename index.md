@@ -12,8 +12,8 @@
 <img src="https://img.itch.zone/aW1nLzc2MzE2NTkucG5n/original/BZN7se.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[My art webpage](drek.neocities.org)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Bliss_location%2C_Sonoma_Valley_in_2006.jpg"/>
 
 ---
 
