@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects done at Unity education 
 
 [Reflections](https://imt-rexx.itch.io/reflections)
 <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png"/>
