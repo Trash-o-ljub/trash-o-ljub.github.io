@@ -15,7 +15,7 @@ Storyboard<br>
 
 [puc-puc](https://milojko-overdrajv.itch.io/puc-puc)<br>
 <a href="https://milojko-overdrajv.itch.io/puc-puc">
-<img src="https://img.itch.zone/aW1hZ2UvMTQxNDcwNi84MjUxNzQxLnBuZw==/original/SJdMjc.png"/>
+<img src="https://raw.githubusercontent.com/Trash-o-ljub/trash-o-ljub.github.io/master/images/puc%20puc%20slika.png"/>
 </a>
 Solo everything<br>
 Final exam at Unity education<br>
